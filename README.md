@@ -12,7 +12,7 @@ Raindrops adhering to the lens of UAVs can obstruct visibility of the background
 ---
 
 ## Benchmark Dataset
-Coming Soon!
+https://pan.baidu.com/s/1E9b2sW_BEclQUROg8xKdkg?pwd=du3z (du3z)
 
 ## Performance Evaluation
 
