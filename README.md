@@ -8,6 +8,7 @@ Raindrops adhering to the lens of UAVs can obstruct visibility of the background
 <p align="center">
   <img width="800" src="./img/overview.jpg">
 </p>
+
 ---
 
 ## Benchmark Dataset
@@ -15,7 +16,7 @@ Coming Soon!
 
 ## Performance Evaluation
 
-The PSNR and SSIM results are computed by using this [Python Code](https://github.com/hongwang01/RCDNet/tree/master/Performance_evaluation), based on Y channel of YCbCr space.
+The PSNR and SSIM results are computed by using this [Python Code](https://github.com/cschenxiang/UAV-Rain1k/blob/main/score.py), based on Y channel of YCbCr space.
 
 ## Visual Deraining Results
 
