@@ -20,7 +20,15 @@ The PSNR and SSIM results are computed by using this [Python Code](https://githu
 
 ## Visual Deraining Results
 
-Coming Soon!
+RCDNet: https://pan.baidu.com/s/1ZHZqQVbKCnCuIh6atvS0zQ?pwd=n4gl (n4gl)
+
+SPDNet: https://pan.baidu.com/s/1yQdLAnUVexOKuYLYtkFLgg?pwd=hca4 (hca4)
+
+Restormer: https://pan.baidu.com/s/1j7X2NpfEPXYMCyZ1v5pbFw?pwd=si1w (si1w)
+
+IDT: https://pan.baidu.com/s/1sVcMX35YCQEvWDhoYaL3Cg?pwd=onx0 (onx0)
+
+DRSformer: https://pan.baidu.com/s/1kHGefiug6dJ5I0Ia8Kv96Q?pwd=hyg6 (hyg6)
 
 ## Citation
 If you find this project useful in your research, please consider citing:
