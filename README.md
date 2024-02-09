@@ -1,8 +1,13 @@
 # <p align=center> :fire: `UAV-Rain1k: A Benchmark for Raindrop Removal from UAV Aerial Imagery`</p>
 
-> Wenhui Chang, Hongming Chen, Xin He, Xiang Chen*, Liangduo Shen*
+[Paper](https://arxiv.org/abs/2402.05773) | [Project Page](https://github.com/cschenxiang/UAV-Rain1k) 
 
->Shenyang Aerospace University, Naval Aviation University, Nanjing University of Science and Technology, Zhejiang Ocean University
+Wenhui Chang, Hongming Chen, Xin He, Xiang Chen*, Liangduo Shen*
+
+Shenyang Aerospace University, Naval Aviation University, Nanjing University of Science and Technology, Zhejiang Ocean University
+
+
+
 
 ---
 ### Dataset
