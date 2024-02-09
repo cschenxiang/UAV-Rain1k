@@ -12,11 +12,9 @@
 (The datasets are hosted on both Google Drive and BaiduPan)
 | Download Link | Description | 
 |:-----: |:-----: |
-| [Google Drive]() / [Baidu Netdisk](https://pan.baidu.com/s/1E9b2sW_BEclQUROg8xKdkg?pwd=du3z) with code: du3z | A total of 800 pairs for training and 200 pairs for testing. Resolution: 1,500 × 1,000 |
+| [Google Drive]() / [Baidu Netdisk](https://pan.baidu.com/s/1E9b2sW_BEclQUROg8xKdkg?pwd=du3z) (du3z) | A total of 800 pairs for training and 200 pairs for testing. Resolution: 1,500 × 1,000 |
 
-
-
-## Performance Evaluation
+### Performance Evaluation
 
 The PSNR and SSIM results are computed by using this [Python Code](https://github.com/cschenxiang/UAV-Rain1k/blob/main/score.py), based on Y channel of YCbCr space.
 
