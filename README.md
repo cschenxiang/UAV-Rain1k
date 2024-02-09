@@ -14,39 +14,31 @@
 |:-----: |:-----: |
 | [Google Drive]() / [Baidu Netdisk](https://pan.baidu.com/s/1E9b2sW_BEclQUROg8xKdkg?pwd=du3z) (du3z) | A total of 800 pairs for training and 200 pairs for testing. |
 
-### Performance Evaluation
+### Evaluation
+The PSNR and SSIM results are computed by using this [Python Code](https://github.com/cschenxiang/UAV-Rain1k/blob/main/evaluation.py), based on Y channel of YCbCr space.
 
-The PSNR and SSIM results are computed by using this [Python Code](https://github.com/cschenxiang/UAV-Rain1k/blob/main/score.py), based on Y channel of YCbCr space.
+## Visual Results
+| Method | Download Link | 
+|:-----: |:-----: |
+| RCDNet | [Google Drive]() / [Baidu Netdisk](https://pan.baidu.com/s/1ZHZqQVbKCnCuIh6atvS0zQ?pwd=n4gl) (n4gl) |
+| SPDNet | [Google Drive]() / [Baidu Netdisk](https://pan.baidu.com/s/1yQdLAnUVexOKuYLYtkFLgg?pwd=hca4) (hca4) |
+| Restormer | [Google Drive]() / [Baidu Netdisk](https://pan.baidu.com/s/1j7X2NpfEPXYMCyZ1v5pbFw?pwd=si1w) (si1w) |
+| IDT | [Google Drive]() / [Baidu Netdisk](https://pan.baidu.com/s/1sVcMX35YCQEvWDhoYaL3Cg?pwd=onx0) (onx0) |
+| DRSformer | [Google Drive]() / [Baidu Netdisk](https://pan.baidu.com/s/1kHGefiug6dJ5I0Ia8Kv96Q?pwd=hyg6) (hyg6) |
 
-
-
-
-
-## Visual Deraining Results
-
-RCDNet: https://pan.baidu.com/s/1ZHZqQVbKCnCuIh6atvS0zQ?pwd=n4gl (n4gl)
-
-SPDNet: https://pan.baidu.com/s/1yQdLAnUVexOKuYLYtkFLgg?pwd=hca4 (hca4)
-
-Restormer: https://pan.baidu.com/s/1j7X2NpfEPXYMCyZ1v5pbFw?pwd=si1w (si1w)
-
-IDT: https://pan.baidu.com/s/1sVcMX35YCQEvWDhoYaL3Cg?pwd=onx0 (onx0)
-
-DRSformer: https://pan.baidu.com/s/1kHGefiug6dJ5I0Ia8Kv96Q?pwd=hyg6 (hyg6)
-
-## Citation
+### Citation
 If you find this project useful in your research, please consider citing:
 ```
 @article{UAV-Rain1k,
     title={UAV-Rain1k: A Benchmark for Raindrop Removal from UAV Aerial Imagery},
     author={Chang, Wenhui and Chen, Hongming and He, Xin and Chen, Xiang and Shen, Liangduo},
-    journal={arXiv preprint arXiv:},
+    journal={arXiv preprint arXiv: 2402.05773},
     year={2024}
 }
 ```
 
-## Disclaimer
+### Disclaimer
 Please only use the dataset for research purposes.
 
-## Contact
+### Contact
 If you have any questions, please feel free to reach me out at chenxiang@njust.edu.cn
