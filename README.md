@@ -4,15 +4,12 @@
 
 >Shenyang Aerospace University, Naval Aviation University, Nanjing University of Science and Technology, Zhejiang Ocean University
 
-## Abstract
-Raindrops adhering to the lens of UAVs can obstruct visibility of the background scene and degrade image quality. Despite recent progress in image deraining methods and datasets, there is a lack of focus on raindrop removal from UAV aerial imagery due to the unique challenges posed by varying angles and rapid movement during drone flight. To fill the gap in this research, we first construct a new benchmark dataset for removing raindrops from UAV images, called UAV-Rain1k. In this letter, we provide a dataset generation pipeline, which includes modeling raindrop shapes using Blender, collecting background images from various UAV angles, random sampling of rain masks and etc. Based on the proposed benchmark, we further present a comprehensive evaluation of existing representative image deraining algorithms, and reveal future research opportunities worth exploring. The proposed dataset will be publicly available at https://github.com/cschenxiang/UAV-Rain1k.
-
----
-<p align="center">
-  <img width="800" src="./img/overview.jpg">
-</p>
-
----
+### Dataset
+![Example](figures/overview.jpg)
+(The datasets are hosted on both Google Drive and BaiduPan)
+| Dataset | Link | Number | Description|
+| :----- | :--: | :----: | :---- | 
+| UHD-LL_down| [Google Drive](https://drive.google.com/file/d/1KnsimKvQK38qDOrF4cPLFC2-tNIy5vZ8/view?usp=sharing) / [BaiduPan (key: 1234)](https://pan.baidu.com/s/17v96dX_ity_HkCxj-8pyCA?pwd=1234) | 2,150 | A total of 2,000 pairs for training and 150 pairs for testing. Resolution: 960 × 540|
 
 ## Benchmark Dataset
 https://pan.baidu.com/s/1E9b2sW_BEclQUROg8xKdkg?pwd=du3z (du3z)
