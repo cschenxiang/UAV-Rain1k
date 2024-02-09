@@ -6,19 +6,15 @@
 
 >Shenyang Aerospace University, Naval Aviation University, Nanjing University of Science and Technology, Zhejiang Ocean University
 
-
-
-
 ---
 ### Dataset
 ![Example](figures/overview.jpg)
 (The datasets are hosted on both Google Drive and BaiduPan)
-| Dataset | Link | Number | Description|
-| :----- | :--: | :----: | :---- | 
-| UHD-LL_down| [Google Drive](https://drive.google.com/file/d/1KnsimKvQK38qDOrF4cPLFC2-tNIy5vZ8/view?usp=sharing) / [BaiduPan (key: 1234)](https://pan.baidu.com/s/17v96dX_ity_HkCxj-8pyCA?pwd=1234) | 2,150 | A total of 2,000 pairs for training and 150 pairs for testing. Resolution: 960 × 540|
+| Dataset | Download Link | Description | 
+| :----- |:-----: |:-----: |
+| UAV-Rain1k | [Google Drive]()/[Baidu Netdisk](https://pan.baidu.com/s/1E9b2sW_BEclQUROg8xKdkg?pwd=du3z) with code: du3z | A total of 800 pairs for training and 200 pairs for testing. Resolution: 1,500 × 1,000 |
 
-## Benchmark Dataset
-https://pan.baidu.com/s/1E9b2sW_BEclQUROg8xKdkg?pwd=du3z (du3z)
+
 
 ## Performance Evaluation
 
