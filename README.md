@@ -17,7 +17,7 @@
 ### Evaluation
 The PSNR and SSIM results are computed by using this [Python Code](https://github.com/cschenxiang/UAV-Rain1k/blob/main/evaluation.py), based on Y channel of YCbCr space.
 
-## Visual Results
+### Visual Results
 | Method | Download Link | 
 |:-----: |:-----: |
 | RCDNet | [Google Drive]() / [Baidu Netdisk](https://pan.baidu.com/s/1ZHZqQVbKCnCuIh6atvS0zQ?pwd=n4gl) (n4gl) |
@@ -32,7 +32,7 @@ If you find this project useful in your research, please consider citing:
 @article{UAV-Rain1k,
     title={UAV-Rain1k: A Benchmark for Raindrop Removal from UAV Aerial Imagery},
     author={Chang, Wenhui and Chen, Hongming and He, Xin and Chen, Xiang and Shen, Liangduo},
-    journal={arXiv preprint arXiv: 2402.05773},
+    journal={arXiv preprint arXiv:2402.05773},  
     year={2024}
 }
 ```
