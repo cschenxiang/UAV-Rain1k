@@ -29,10 +29,10 @@ The PSNR and SSIM results are computed by using this [Python Code](https://githu
 ### Citation
 If you find this project useful in your research, please consider citing:
 ```
-@article{UAV-Rain1k,
+@inproceedings{UAV-Rain1k,
     title={UAV-Rain1k: A Benchmark for Raindrop Removal from UAV Aerial Imagery},
     author={Chang, Wenhui and Chen, Hongming and He, Xin and Chen, Xiang and Shen, Liangduo},
-    journal={arXiv preprint arXiv:2402.05773},  
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
     year={2024}
 }
 ```
