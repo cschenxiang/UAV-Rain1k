@@ -12,7 +12,7 @@
 (The datasets are hosted on both Google Drive and BaiduPan)
 | Download Link | Description | 
 |:-----: |:-----: |
-| [Google Drive]() / [Baidu Netdisk]() () | A total of 800 pairs for training and 220 pairs for testing. |
+| [Google Drive]() / [Baidu Netdisk](https://pan.baidu.com/s/1J8LP4mOFOGopo-8YEpj7KQ?pwd=soi3) (soi3) | A total of 800 pairs for training and 220 pairs for testing. |
 
 ### Evaluation
 The PSNR and SSIM results are computed by using this [Python Code](https://github.com/cschenxiang/UAV-Rain1k/blob/main/evaluation.py), based on Y channel of YCbCr space.
